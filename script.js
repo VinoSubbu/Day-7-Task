@@ -1,5 +1,5 @@
 //Creating a HttpRequest 
-  const req = new XMLHttpRequest();
+//   const req = new XMLHttpRequest();
 
 //  req.addEventListener("load", reqListener);
 
